@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/reactnative
 
+service_account.json
+
 ### ReactNative ###
 # React Native Stack Base
 ### ReactNative.macOS Stack ###
