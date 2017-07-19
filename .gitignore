@@ -2,6 +2,7 @@
 # Created by https://www.gitignore.io/api/reactnative
 
 service_account.json
+functions/twilio.js
 
 ### ReactNative ###
 # React Native Stack Base
